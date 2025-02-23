@@ -1,0 +1,17 @@
+#background{
+background-image: url(images/background1.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+
+
+
+}
+#title{
+
+    border: 5px solid red;
+    border-radius: 9px;
+    border-top-style: dashed;
+    border-bottom-style: dotted;
+}
